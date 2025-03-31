@@ -20,12 +20,18 @@ diversity of thought and exploration that `STEM` has to offer.
 
 ## 2. What does this repository house?
 
+This repository houses links to talks that include:
+
 - 📊 Presentations.
 - 💻 Implementations and examples.
 - 📓 Interactive notebooks.
 - 📚 Curated learning resources and references materials.
 
-## 3. Licensing
+## 3. Find talks sorted via years!
+
+- [2025](/2025.md)
+
+## 4. Licensing
 
 - Implementations, examples, interactive notebooks and the code used to create
   presentations and videos are available under the [MIT](/LICENSE-MIT) license.
