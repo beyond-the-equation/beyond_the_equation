@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-While _<beyond\_the\_equation/>_ began as an ambitious talk series exploring the
+While `beyond_the_equation` began as an ambitious talk series exploring the
 depths of **Science**, **Technology**, **Engineering**, and **Mathematics**
 (STEM), time didn’t allow those talks to fully take shape. The vision, however,
 lives on—reimagined as a collection of interactive notebooks and experimental
