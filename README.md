@@ -17,26 +17,22 @@ to think about.
 
 I don’t know exactly who this will help—maybe no one. But these notebooks give
 form to scattered thoughts I enjoyed playing with: ideas too weird, too niche,
-or too incomplete to be "useful" in the conventional sense. It's a public lab
-notebook—open to anyone curious enough to explore.
+or too incomplete to be "useful" in the conventional sense.
 
-That said, don’t treat it as a tutorial library or curriculum. It’s a
-sandbox—visual experiments, weird math, and “what if” questions. You’re invited
-to read, remix, or fork. If it makes you think a little differently, it’s done
-its job.
+That said, don’t treat it as a tutorial or curriculum. It’s a sandbox—visual
+experiments, weird math, and “what if” questions. You’re invited to read, remix,
+or fork. If it makes you think a little differently, it’s done its job.
 
 ## 2. What does this repository house?
 
 This repository houses links to modules that include:
 
-- 📊 Presentations (sort-of).
-- 💻 Implementations and examples.
 - 📓 Interactive notebooks.
 - 📚 Curated learning resources and references materials.
 
 ## 3. Explore modules!
 
-1. [**Harnessing Chaos: Turning chaos into something useful**](https://github.com/beyond-the-equation/1_harnessing_chaos).
+1. [**Harnessing Chaos: Turning chaos into something useful**](https://github.com/beyond-the-equation/1_harnessing_chaos)
 
 ## 4. Licensing
 
